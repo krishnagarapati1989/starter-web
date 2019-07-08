@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work. Simple project for showing how to use Git and Github together.
 Adding a line for rebasing example, then more changes from myfeature branch too.
+updating emergency fix for stash
 
 ## Purpose
 
